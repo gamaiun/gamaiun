@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### My Recent Project:
-[COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)
+[COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)/
+
 [Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.
 
 ### Connect 

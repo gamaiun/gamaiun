@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#3 My Recent Project:
-![COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)
+### H3 My Recent Project:
+[COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)

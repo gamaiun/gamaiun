@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### H3 My Recent Project:
+### My Recent Project:
 [COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)
+[Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.
+
+### Connect 
+catbooster@proton.me

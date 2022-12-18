@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#3 My Recent Project:
+![COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)

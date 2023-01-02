@@ -31,7 +31,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%231a1a1b.svg?style=for-the-badge&logo=numpy) 
 ![PyTorch](https://img.shields.io/badge/pytorch-%231a1a1b.svg?style=for-the-badge&logo=pytorch) 
 ![Pandas](https://img.shields.io/badge/pandas-%231a1a1b.svg?style=for-the-badge&logo=pandas) 
-![statsmodels](https://img.shields.io/badge/|||statsmodels-%231a1a1b.svg?style=for-the-badge&logo=statsmodels) 
+![statsmodels](https://img.shields.io/badge/||| statsmodels-%231a1a1b.svg?style=for-the-badge&logo=statsmodels) 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%231a1a1b.svg?style=for-the-badge&logo=scikit-learn) 
 

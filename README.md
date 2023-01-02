@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Project:
 [COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)
-[Cointegration Tester]()
+[Cointegration Tester](https://github.com/gamaiun/stocks_cointegration)
 [Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.
 
 ## Languages

@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 ## Connect 
 💬 catbooster@proton.me 
-![LinkedIn](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/)
+
+[LinkedIn](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/)
 

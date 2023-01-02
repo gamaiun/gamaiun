@@ -1,36 +1,46 @@
-### Hi there and welcome to my repos. 
+# About Me:
 
-<!--
-**gamaiun/gamaiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I am currently doing my Masters in Artificial Intelligence at JKU in Linz, Austria. <br>
+- 🤖 There I have chosen the elective track "Mechatronics - Robotics and Autonomous Systems" because I am fascinated by robotics - and drones. <br>
+- 🎓 Before my master's degree, I did a bachelor's degree in business information technology.<br>
 
-Here are some ideas to get you started:
+# Connect:
+🌍 [LinkedIn](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/) <br>
+✉ catbooster@proton.me
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  Recent Projects:
+📊 [COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/) <br>
+📊 [Cointegration Tester](https://github.com/gamaiun/stocks_cointegration) <br>
+🤖 [Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.
 
-## Recent Project:
-[COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/)
+# Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1b.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/)
+- [![LinkedIn](https://img.shields.io/badge/Twitter-%231a1a1b.svg?style=for-the-badge&logo=twitter)](https://twitter.com/manusimidt)
+- [![LinkedIn](https://img.shields.io/badge/Reddit-%231a1a1b.svg?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/manusimidt)
+- [![Instagram](https://img.shields.io/badge/Instagram-%231a1a1b?style=for-the-badge&logo=instagram)](https://www.instagram.com/manusimidt/)
 
-[Cointegration Tester](https://github.com/gamaiun/stocks_cointegration)
+# Languages
+![Python](https://img.shields.io/badge/python-%231a1a1b?style=for-the-badge&logo=python)
+- ![JavaScript](https://img.shields.io/badge/Javascript-%231a1a1b?style=for-the-badge&logo=JavaScript)
+- ![Java](https://img.shields.io/badge/Java-%231a1a1b?style=for-the-badge)
+- ![C](https://img.shields.io/badge/C-%231a1a1b?style=for-the-badge&logo=C)
+- ![C++](https://img.shields.io/badge/C++-%231a1a1b?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-%231a1a1b?style=for-the-badge)
+- ![Python](https://img.shields.io/badge/XML-%231a1a1b?style=for-the-badge&logo=xml)
+![Python](https://img.shields.io/badge/HTML-%231a1a1b?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/XBRL-%231a1a1b?style=for-the-badge)
+![Python](https://img.shields.io/badge/LaTeX-%231a1a1b?style=for-the-badge&logo=latex)
 
-[Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.
+# Frameworks & Technologies
+- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%231a1a1b.svg?style=for-the-badge&logo=digitalOcean) 
+- ![Nginx](https://img.shields.io/badge/nginx-%231a1a1b.svg?style=for-the-badge&logo=nginx) 
+- ![Node.js](https://img.shields.io/badge/Node.js-%231a1a1b.svg?style=for-the-badge&logo=nodedotjs) 
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%231a1a1b.svg?style=for-the-badge&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/MySQL-%231a1a1b.svg?style=for-the-badge&logo=mysql) 
+![NumPy](https://img.shields.io/badge/numpy-%231a1a1b.svg?style=for-the-badge&logo=numpy) 
+![PyTorch](https://img.shields.io/badge/pytorch-%231a1a1b.svg?style=for-the-badge&logo=pytorch) 
+![Pandas](https://img.shields.io/badge/pandas-%231a1a1b.svg?style=for-the-badge&logo=pandas) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%231a1a1b.svg?style=for-the-badge&logo=scikit-learn) 
+- ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-%231a1a1b?style=for-the-badge&logo=Raspberry-Pi)
 
-## Languages
-![](https://camo.githubusercontent.com/5f15a9a96a2d838e8299de44943f75c6e251f6158784ee72cd2a730b7da6f4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333161316131623f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e) ![](https://camo.githubusercontent.com/960c9d3d1453c346b71c168e29bc5410bedc02e06ea39f2406a0f48927ecec51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d2532333161316131623f7374796c653d666f722d7468652d6261646765) ![](https://camo.githubusercontent.com/16aa632ef2cce922efdb3290346aac0782436b14c3fa30b99b6926bc014a158c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d2532333161316131623f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35) ![](https://camo.githubusercontent.com/c91549c309d58c4c355cac3d7f479b4e96a9781c0667ba12a8c8b244b4e1f858/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d2532333161316131623f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578)
-
-## Frameworks and Technologies
-
-![](https://camo.githubusercontent.com/de9aaaa15708f79d91c9efe62a210484f4f482c45e38272cc470b4b4352f581f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333161316131622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079) ![](https://camo.githubusercontent.com/a6939ee726dea559a842a1af73f549bedbf192c566dbb5b139def78a9a0649ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333161316131622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173) ![](https://camo.githubusercontent.com/c2bb8b2b232241cbf6e6d6fd96e4a9a35b8aad38b70c1376dd3c8de6d4b5319f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532333161316131622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e) ![](https://camo.githubusercontent.com/98e7cd0fbd6482bbd22a7748f7ba156866b5030fe96de82297fc3b705837f557/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333161316131622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c) ![](https://camo.githubusercontent.com/28882a2284946a0945c6ea3fd7a72ac425c07b12f513077cd0ba9f0ae4c9f8c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079746f7263682d2532333161316131622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7079746f726368) streamlit, tensorflow
-
-## Connect 
-💬 catbooster@proton.me 
-
-[LinkedIn](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/)
 

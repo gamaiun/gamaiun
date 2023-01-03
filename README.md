@@ -27,7 +27,7 @@
 # Frameworks & Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%231a1a1b.svg?style=for-the-badge&logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%231a1a1b.svg?style=for-the-badge&logo=streamlit)
-![MySQL](https://img.shields.io/badge/MySQL-%231a1a1b.svg?style=for-the-badge&logo=mysql) 
+![MySQL](https://img.shields.io/badge/SQL-%231a1a1b.svg?style=for-the-badge&logo=sql) 
 ![NumPy](https://img.shields.io/badge/numpy-%231a1a1b.svg?style=for-the-badge&logo=numpy) 
 ![PyTorch](https://img.shields.io/badge/pytorch-%231a1a1b.svg?style=for-the-badge&logo=pytorch) 
 ![Pandas](https://img.shields.io/badge/pandas-%231a1a1b.svg?style=for-the-badge&logo=pandas) 

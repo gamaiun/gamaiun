@@ -13,9 +13,9 @@
 📊 [Cointegration Tester](https://github.com/gamaiun/stocks_cointegration) <br>
 🤖 [Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1b.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/)
-![LinkedIn](https://img.shields.io/badge/catbooster@proton.me-%231a1a1b.svg?style=for-the-badge&logo=mail)
+# Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1b.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/) <br>
+![LinkedIn](https://img.shields.io/badge/catbooster@proton.me-%231a1a1b.svg?style=for-the-badge&logo=email)
 
 # Languages
 ![Python](https://img.shields.io/badge/python-%231a1a1b?style=for-the-badge&logo=python)

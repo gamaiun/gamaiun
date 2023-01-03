@@ -5,17 +5,16 @@
 - 🎓 Before my master's degree, I did a bachelor's degree in business information technology.<br>
  -->
 # Connect:
-🌍 [LinkedIn](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/) <br>
-✉ catbooster@proton.me
+🌍 
 
 #  Recent Projects:
 📊 [COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/) <br>
 📊 [Cointegration Tester](https://github.com/gamaiun/stocks_cointegration) <br>
 🤖 [Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.
 
-# Connect:
+# C🌍NNECT:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1b.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vadim-antonovi%D1%81h-61b955240/) <br>
-![LinkedIn](https://img.shields.io/badge/catbooster@proton.me-%231a1a1b.svg?style=for-the-badge&logo=proton)
+![LinkedIn](https://img.shields.io/badge/catbooster@proton.me-%231a1a1b.svg?style=for-the-badge&logo=gmail)
 
 # Languages
 ![Python](https://img.shields.io/badge/python-%231a1a1b?style=for-the-badge&logo=python)

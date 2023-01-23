@@ -8,6 +8,7 @@
 
 #  Recent Projects:
 📊 [COT reports app](https://gamaiun-cot-financial-app-app-9c911c.streamlit.app/) <br>
+📊 [EventBased_Backtester](https://github.com/gamaiun/EventBased_Backtester) <br>
 📊 [MA Crossover: Fresh look on the classic strategy](https://github.com/gamaiun/Moving-Average-Field) <br>
 📊 [Cointegration Tester](https://github.com/gamaiun/stocks_cointegration) <br>
 🤖 [Locksmith Password Manager](https://github.com/gamaiun/Locksmith-Password_manager) A desktop widget that saves, generates and retrieves passwords.

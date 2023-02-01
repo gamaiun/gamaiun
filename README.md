@@ -30,7 +30,7 @@
 ![talib](https://img.shields.io/badge/talib-%231a1a1b.svg?style=for-the-badge&logo=talib)
 ![bt](https://img.shields.io/badge/bt-%231a1a1b.svg?style=for-the-badge&logo=bt)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%231a1a1b.svg?style=for-the-badge&logo=streamlit)
-![MySQL](https://img.shields.io/badge/SQL-%231a1a1b.svg?style=for-the-badge&logo=sql) 
+![PyQT6](https://img.shields.io/badge/SQL-%231a1a1b.svg?style=for-the-badge&logo=pyqt6) 
 ![NumPy](https://img.shields.io/badge/numpy-%231a1a1b.svg?style=for-the-badge&logo=numpy) 
 ![PyTorch](https://img.shields.io/badge/pytorch-%231a1a1b.svg?style=for-the-badge&logo=pytorch) 
 ![Pandas](https://img.shields.io/badge/pandas-%231a1a1b.svg?style=for-the-badge&logo=pandas) 

@@ -21,6 +21,8 @@
 ![Python](https://img.shields.io/badge/python-%231a1a1b?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-%231a1a1b?style=for-the-badge)
 ![Python](https://img.shields.io/badge/HTML-%231a1a1b?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/HTML-%231a1a1b?style=for-the-badge&logo=css)
+![Python](https://img.shields.io/badge/HTML-%231a1a1b?style=for-the-badge&logo=js)
 ![Python](https://img.shields.io/badge/XBRL-%231a1a1b?style=for-the-badge)
 ![Python](https://img.shields.io/badge/LaTeX-%231a1a1b?style=for-the-badge&logo=latex)
 

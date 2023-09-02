@@ -7,7 +7,7 @@
 
 
 #  Recent Projects:
-📊 [COT reports app](https://github.com/gamaiun/COT-financial-app) <br>
+📊 [COT app](https://github.com/gamaiun/cot-indicators.streamlit_app) <br>
 📊 [EventBased_Backtester](https://github.com/gamaiun/EventBased_Backtester) <br>
 📊 [MA Crossover: Fresh look on the classic strategy](https://github.com/gamaiun/Moving-Average-Field) <br>
 📊 [Cointegration Tester](https://github.com/gamaiun/stocks_cointegration) <br>

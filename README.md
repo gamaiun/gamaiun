@@ -7,7 +7,7 @@
 
 
 #  Recent Projects:
-📊 [COT app](https://github.com/gamaiun/cot-indicators.streamlit_app) <be>
+📊 [COT app](https://github.com/gamaiun/cot-indicators.streamlit_app) <br>
 📊 [Agricultural app](https://github.com/gamaiun/Agriculturals-Dashboard) <br>
 📊 [NatGas app](https://github.com/gamaiun/NaturalGas-Dashboard) <br>
 📊 [EventBased_Backtester](https://github.com/gamaiun/EventBased_Backtester) <br>

@@ -8,8 +8,8 @@
 
 #  Recent Projects:
 📊 [GitHub Sleuth](https://git-sleuth.netlify.app/) <br>
+📊 [Agricultural app](https://github.com/gamaiun/Agriculturals-Dashboard) <be>
 📊 [COT app](https://github.com/gamaiun/cot-indicators.streamlit_app) <br>
-📊 [Agricultural app](https://github.com/gamaiun/Agriculturals-Dashboard) <br>
 📊 [NatGas app](https://github.com/gamaiun/NaturalGas-Dashboard) <br>
 📊 [EventBased_Backtester](https://github.com/gamaiun/EventBased_Backtester) <br>
 📊 [MA Crossover: Fresh look on the classic strategy](https://github.com/gamaiun/Moving-Average-Field) <br>

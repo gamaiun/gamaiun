@@ -9,7 +9,7 @@
 #  Recent Projects:
 📊 [GitHub Sleuth](https://git-sleuth.netlify.app/) <br>
 📊 [AuthoredByMe](https://www.authoredbyme.com) <br>
-📊 [Commitment of Traders app](https://www.byotr.io) <be>
+📊 [Commitment of Traders app](https://www.byotr.com) <be>
 📊 [COT app](https://github.com/gamaiun/cot-indicators.streamlit_app) <br>
 📊 [NatGas app](https://github.com/gamaiun/NaturalGas-Dashboard) <br>
 📊 [EventBased_Backtester](https://github.com/gamaiun/EventBased_Backtester) <br>

@@ -8,6 +8,7 @@
 
 #  Recent Projects:
 📊 [GitHub Sleuth](https://git-sleuth.netlify.app/) <br>
+📊 [AuthoredByMe](https://https://www.authoredbyme.com) <br>
 📊 [Agricultural app](https://github.com/gamaiun/Agriculturals-Dashboard) <be>
 📊 [COT app](https://github.com/gamaiun/cot-indicators.streamlit_app) <br>
 📊 [NatGas app](https://github.com/gamaiun/NaturalGas-Dashboard) <br>
